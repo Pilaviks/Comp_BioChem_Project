@@ -214,7 +214,7 @@ protein-interface-prioritization/
 │ ├── 02_baseline_heuristic.ipynb  
 │ ├── 03_classical_ml.ipynb  
 │ ├── 04_gnn_training.ipynb  
-│ └── 05_case_studies.ipynb  
+│ └── 05_case_studies_3d_maps.ipynb  
 │  
 ├── results/  
 │ ├── metrics/  
