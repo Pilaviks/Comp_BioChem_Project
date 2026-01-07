@@ -1,0 +1,1258 @@
+{
+  "train": [
+    {
+      "pdb_id": "12E8",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "12E8",
+      "chainA": "L",
+      "chainB": "M"
+    },
+    {
+      "pdb_id": "12E8",
+      "chainA": "M",
+      "chainB": "P"
+    },
+    {
+      "pdb_id": "15C8",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A00",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A00",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A00",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A00",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A00",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A01",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A01",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A01",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A01",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A01",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A02",
+      "chainA": "F",
+      "chainB": "J"
+    },
+    {
+      "pdb_id": "1A02",
+      "chainA": "F",
+      "chainB": "N"
+    },
+    {
+      "pdb_id": "1A02",
+      "chainA": "J",
+      "chainB": "N"
+    },
+    {
+      "pdb_id": "1A07",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A08",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A09",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A0O",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A0O",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A0O",
+      "chainA": "E",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1A0O",
+      "chainA": "G",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1A0Q",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A0R",
+      "chainA": "B",
+      "chainB": "G"
+    },
+    {
+      "pdb_id": "1A0R",
+      "chainA": "B",
+      "chainB": "P"
+    },
+    {
+      "pdb_id": "1A0U",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A0U",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A0U",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A0U",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A0U",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A0Z",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A0Z",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A0Z",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A0Z",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A0Z",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A14",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A14",
+      "chainA": "H",
+      "chainB": "N"
+    },
+    {
+      "pdb_id": "1A14",
+      "chainA": "L",
+      "chainB": "N"
+    },
+    {
+      "pdb_id": "1A1A",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A1B",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A1C",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A1E",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A1M",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A1N",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A1O",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A1R",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A22",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A2C",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A2X",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A2Y",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A2Y",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A2Y",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A30",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A3L",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A3N",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A3N",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A3N",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A3N",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A3N",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A3O",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A3O",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A3O",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A3O",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A3O",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A3R",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A4F",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A4J",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A4J",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A4K",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A4K",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A4Y",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A4Y",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A4Y",
+      "chainA": "D",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1A50",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A5A",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A5B",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A5F",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A5K",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5K",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5L",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5L",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5M",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5M",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5N",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5N",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5O",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5O",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A5S",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A6A",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A6D",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A6T",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A6T",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A6U",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A6V",
+      "chainA": "H",
+      "chainB": "I"
+    },
+    {
+      "pdb_id": "1A6V",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A6V",
+      "chainA": "I",
+      "chainB": "J"
+    },
+    {
+      "pdb_id": "1A6V",
+      "chainA": "I",
+      "chainB": "M"
+    },
+    {
+      "pdb_id": "1A6V",
+      "chainA": "J",
+      "chainB": "N"
+    },
+    {
+      "pdb_id": "1A6W",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A6Z",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A6Z",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A6Z",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A75",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A7N",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A7O",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A7P",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A7Q",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A7R",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1A81",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A81",
+      "chainA": "A",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1A81",
+      "chainA": "A",
+      "chainB": "G"
+    },
+    {
+      "pdb_id": "1A81",
+      "chainA": "C",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1A81",
+      "chainA": "G",
+      "chainB": "I"
+    },
+    {
+      "pdb_id": "1A81",
+      "chainA": "G",
+      "chainB": "K"
+    },
+    {
+      "pdb_id": "1A81",
+      "chainA": "I",
+      "chainB": "K"
+    },
+    {
+      "pdb_id": "1A9E",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A9N",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A9N",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A9N",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A9W",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1A9W",
+      "chainA": "A",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1A9W",
+      "chainA": "A",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1A9W",
+      "chainA": "C",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1A9W",
+      "chainA": "C",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "A",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "A",
+      "chainB": "G"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "C",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "C",
+      "chainB": "G"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "E",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1A9X",
+      "chainA": "G",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "B",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "B",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "B",
+      "chainB": "S"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "C",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "C",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "C",
+      "chainB": "S"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "E",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "E",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "F",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "F",
+      "chainB": "I"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "H",
+      "chainB": "I"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "I",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "I",
+      "chainB": "S"
+    },
+    {
+      "pdb_id": "1AA1",
+      "chainA": "L",
+      "chainB": "S"
+    },
+    {
+      "pdb_id": "1AB9",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1ABI",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1ABO",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1ABR",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1ABW",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1ABW",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1ABY",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1ABY",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1ACB",
+      "chainA": "E",
+      "chainB": "I"
+    },
+    {
+      "pdb_id": "1ACM",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1ACM",
+      "chainA": "B",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1ACM",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1ACY",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AD0",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AD0",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1AD0",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AD9",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AD9",
+      "chainA": "A",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AD9",
+      "chainA": "B",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AD9",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AE6",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AE8",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AFE",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AFQ",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1AGB",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AGC",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AGD",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AGE",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AGF",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AGR",
+      "chainA": "A",
+      "chainB": "D"
+    }
+  ],
+  "val": [
+    {
+      "pdb_id": "1AGR",
+      "chainA": "A",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1AGR",
+      "chainA": "D",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AHJ",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AHJ",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AHJ",
+      "chainA": "E",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1AHJ",
+      "chainA": "G",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AHW",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AHW",
+      "chainA": "A",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1AHW",
+      "chainA": "A",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1AHW",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1AHW",
+      "chainA": "D",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1AHW",
+      "chainA": "D",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1AHW",
+      "chainA": "E",
+      "chainB": "F"
+    },
+    {
+      "pdb_id": "1AI1",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AI4",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AI5",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AI6",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AI7",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AIF",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AIF",
+      "chainA": "B",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AIF",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AIG",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AIG",
+      "chainA": "H",
+      "chainB": "M"
+    },
+    {
+      "pdb_id": "1AIG",
+      "chainA": "L",
+      "chainB": "M"
+    },
+    {
+      "pdb_id": "1AIG",
+      "chainA": "N",
+      "chainB": "O"
+    },
+    {
+      "pdb_id": "1AIG",
+      "chainA": "N",
+      "chainB": "P"
+    },
+    {
+      "pdb_id": "1AIG",
+      "chainA": "O",
+      "chainB": "P"
+    },
+    {
+      "pdb_id": "1AIJ",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AIJ",
+      "chainA": "H",
+      "chainB": "M"
+    },
+    {
+      "pdb_id": "1AIJ",
+      "chainA": "L",
+      "chainB": "M"
+    },
+    {
+      "pdb_id": "1AIJ",
+      "chainA": "R",
+      "chainB": "S"
+    },
+    {
+      "pdb_id": "1AIJ",
+      "chainA": "R",
+      "chainB": "T"
+    },
+    {
+      "pdb_id": "1AIJ",
+      "chainA": "S",
+      "chainB": "T"
+    },
+    {
+      "pdb_id": "1AIK",
+      "chainA": "C",
+      "chainB": "N"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "A",
+      "chainB": "C"
+    }
+  ],
+  "test": [
+    {
+      "pdb_id": "1AIP",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "B",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "B",
+      "chainB": "G"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "C",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "E",
+      "chainB": "G"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "E",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "F",
+      "chainB": "G"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "F",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AIP",
+      "chainA": "G",
+      "chainB": "H"
+    },
+    {
+      "pdb_id": "1AIS",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AJ7",
+      "chainA": "H",
+      "chainB": "L"
+    },
+    {
+      "pdb_id": "1AJ9",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AJN",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AJP",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AJQ",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AJS",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AK4",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AK4",
+      "chainA": "B",
+      "chainB": "C"
+    },
+    {
+      "pdb_id": "1AK4",
+      "chainA": "C",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AKH",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AKJ",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AKJ",
+      "chainA": "A",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AKJ",
+      "chainA": "A",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1AKJ",
+      "chainA": "B",
+      "chainB": "D"
+    },
+    {
+      "pdb_id": "1AKJ",
+      "chainA": "D",
+      "chainB": "E"
+    },
+    {
+      "pdb_id": "1AKS",
+      "chainA": "A",
+      "chainB": "B"
+    },
+    {
+      "pdb_id": "1AL2",
+      "chainA": "1",
+      "chainB": "2"
+    },
+    {
+      "pdb_id": "1AL2",
+      "chainA": "1",
+      "chainB": "3"
+    },
+    {
+      "pdb_id": "1AL2",
+      "chainA": "1",
+      "chainB": "4"
+    },
+    {
+      "pdb_id": "1AL2",
+      "chainA": "2",
+      "chainB": "3"
+    },
+    {
+      "pdb_id": "1AL2",
+      "chainA": "2",
+      "chainB": "4"
+    },
+    {
+      "pdb_id": "1AL2",
+      "chainA": "3",
+      "chainB": "4"
+    },
+    {
+      "pdb_id": "1ALL",
+      "chainA": "A",
+      "chainB": "B"
+    }
+  ]
+}
