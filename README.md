@@ -192,10 +192,8 @@ These visualizations are intended to support **structural interpretation**, not 
 
 
 protein-interface-prioritization/  
-├── README.md  
-├── environment.yml  
-├── LICENSE  
-│  
+├── README.md
+│    
 ├── data/  
 │ ├── raw/ # not tracked  
 │ ├── processed/  
@@ -205,23 +203,21 @@ protein-interface-prioritization/
 ├── src/  
 │ ├── preprocessing/  
 │ ├── baselines/  
-│ ├── models/  
-│ ├── evaluation/  
-│ └── visualization/  
+│ ├── models/   
 │  
 ├── notebooks/  
-│ ├── 01_preprocessing.ipynb  
-│ ├── 02_baseline_heuristic.ipynb  
+│ ├── 01_preprocessing_build_dataset.ipynb  
+│ ├── 02_baseline0_heuristic.ipynb  
 │ ├── 03_classical_ml.ipynb  
-│ ├── 04_gnn_training.ipynb  
-│ └── 05_case_studies_3d_maps.ipynb  
+│ ├── 04_gnn_model.ipynb
+│ ├── 04_gnn_model-precision_focused.ipynb 
+│ └── 05_case_studies_3d_maps.ipynb
+│
+├── outputs/case_studies 
+│
+├── reports/figures 
 │  
-├── results/  
-│ ├── metrics/  
-│ └── figures/  
-│  
-└── report/  
-└── final_report.pdf
+├──final_report.pdf   
 ---
 
   
@@ -231,8 +227,7 @@ protein-interface-prioritization/
   
 
 All experiments can be reproduced using the notebooks provided.
-
-The repository avoids tracking large raw structure files; PDB structures can be re-downloaded as needed.
+The necessary libraries are needed to be installed to be able to use the notebooks.
 
   
 
